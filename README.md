@@ -3,4 +3,12 @@ Autorun DVD program for launching Silmaripedia installation.
 
 ## How it looks?
 <br>
-<img src="https://media.giphy.com/media/3ov9k8s1EuoHvMQKt2/giphy.gif" alt="Silmaripedia autorun" />
+
+![Alt Text](http://i.imgur.com/Dyk3jPw.mp4)
+
+
+
+<br>
+
+<img src=""/> 
+
