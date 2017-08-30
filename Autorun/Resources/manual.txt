@@ -1,0 +1,31 @@
+***********************************************************************
+**Silmaripedia - komputerowy s³ownik postaci z uniwersum Silmarillion** 
+**   			J.R.Tolkiena                         	     **        ***********************************************************************
+
+Program zawiera 46 postaci z ksi¹¿ki, co czyni go bardzo pomocnym narzêdziem przy eksploracji olbrzymiego œwiata z ksi¹¿ki.
+
+-----------------------------------------------------------------------
+TA WERSJA JEST SPECJALN¥ WERSJ¥ DEDYKOWAN¥ DLA KOCHANEJ ADRIANNY <3 <3
+-----------------------------------------------------------------------
+
+Wymagania systemowe:
+- System: Vista, 7, 8, 10 (32 i 64 bitowe)
+- Procesor: dwurdzeniowy 2 GHz
+- Pamiêæ: 256 MB RAM
+- Pamiêæ graficzna: 128 MB VRAM
+- Dysk: conajmniej 200 MB wolnego miejsca na dysku 
+- Peryferia: myszka, klawiatura
+
+:: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
+
+Program jest multimedialn¹ encyklopedi¹ postaci œwiata powieœci Silmarillion. Dziêki wygodnemu interfejsowi oraz przejrzystym opcjom zrozumie go nawet 99-latek. Program jest pomoc¹ w zrozumieniu genezy, powi¹zañ i historii konkretnej postaci. Do informacji dodawane s¹ grafiki bohaterów (zdjêcia z profilówek na fb, w tym selfie Bilbo ajfo³nem!). Do programu dodana jest pomoc w postaci pliku XML, gdzie program jest roz³o¿ony na czynniki pierwsze oraz jest dodany szczegó³owy opis do konrektnych funkcji, elementów i okien. Mi³ego korzystania kochani ;) 
+
+:: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: :: 
+
+Pytania proszê przesy³aæ na adres: matis.poo@wp.pl
+
+Strona domowa: silmariped.y0.pl
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+Ada kocham Ciê!!!
