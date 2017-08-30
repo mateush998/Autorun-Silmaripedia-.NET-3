@@ -1,4 +1,0 @@
-//Image silmari = WindowsFormsApplication1.Properties.Resources.INTROROR;
-            //e.Graphics.DrawImage(silmari, 0, 0, 617, 349); 
-
-633; 391
